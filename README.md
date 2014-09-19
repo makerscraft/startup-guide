@@ -10,4 +10,4 @@ Bloc is a programming bootcamp whose students attend from the comfort of their h
 
 Bloc is the perfect combination of top quality resources and one-to-one mentorship. Bloc instructs in [Full stack](https://www.bloc.io/web-development), [Front end](https://www.bloc.io/frontend-development), [iOS](https://www.bloc.io/iOS) and [Android](https://www.bloc.io/android) development. Bloc also offers a [UX design course](https://www.bloc.io/design).
 
-If you've enjoyed our Startup guide and think you may want to try bootstrapping your own startup, check out our [Freelance Guide](https://github.com/Bloc/freelance-guide).
+If you've enjoyed our Startup Guide and think you may want to try bootstrapping your own startup, check out our [Freelance Guide](https://github.com/Bloc/freelance-guide).
