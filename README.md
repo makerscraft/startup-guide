@@ -1,4 +1,4 @@
-# Bloc's Startup Guide
+# Bloc's Startup Guide (WIP)
 
 Before you quit your day job to launch a startup, you should learn from people who have tried, succeeded and failed. This guide provides resources, opinions and statistics on launching startups.
 
